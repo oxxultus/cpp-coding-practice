@@ -6,7 +6,7 @@
 
 <p align='center'>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-20232a.svg?style=for-the-badge&logo=visualstudiocode&logoColor=61DAFB" />&nbsp <!-- visualstudioCode -->
-    <img src="https://img.shields.io/badge/Visual%20Studio-20232a.svg?style=for-the-badge&logo=visualstudio&logoColor=DF75DB" />&nbsp <!-- visualstudio -->
+    <!--<img src="https://img.shields.io/badge/Visual%20Studio-20232a.svg?style=for-the-badge&logo=visualstudio&logoColor=DF75DB" />&nbsp  visualstudio -->
     <img src="https://img.shields.io/badge/Xcode-20232a.svg?style=for-the-badge&logo=xcode&logoColor=61DAFB" />&nbsp <!-- xcode -->
   <hr>
 </p>
