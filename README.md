@@ -5,21 +5,21 @@
 
 
 <p align='center'>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-20232a.svg?style=for-the-badge&logo=visualstudiocode&logoColor=61DAFB" />&nbsp <!-- visualstudioCode -->
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-20232a.svg?style=flat-square&logo=visualstudiocode&logoColor=61DAFB" />&nbsp <!-- visualstudioCode -->
     <!--<img src="https://img.shields.io/badge/Visual%20Studio-20232a.svg?style=for-the-badge&logo=visualstudio&logoColor=DF75DB" />&nbsp  visualstudio -->
-    <img src="https://img.shields.io/badge/Xcode-20232a.svg?style=for-the-badge&logo=xcode&logoColor=61DAFB" />&nbsp <!-- xcode -->
+    <img src="https://img.shields.io/badge/Xcode-20232a.svg?style=flat-square&logo=xcode&logoColor=61DAFB" />&nbsp <!-- xcode -->
   <hr>
 </p>
 
  <p align='center'>
-    <img src="https://img.shields.io/badge/C-20232a.svg?style=for-the-badge&logo=c&logoColor=00BFFF" />&nbsp <!-- c -->
-    <img src="https://img.shields.io/badge/C++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=00BFFF" />&nbsp <!-- c++ -->
+    <img src="https://img.shields.io/badge/C-20232a.svg?style=flat-square&logo=c&logoColor=00BFFF" />&nbsp <!-- c -->
+    <img src="https://img.shields.io/badge/C++-20232a.svg?style=flat-square&logo=cplusplus&logoColor=00BFFF" />&nbsp <!-- c++ -->
   <hr>
 </p>
 
 
 <p align='center'>
-    <img src="https://img.shields.io/badge/누구나 쉽게 즐기는 C언어 콘서트-20232a.svg?style=for-the-badge&logo=c&logoColor=00BFFF" />&nbsp <!-- c -->
-    <img src="https://img.shields.io/badge/명품 C++ Programing-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=00BFFF" />&nbsp <!-- c++ -->
+    <img src="https://img.shields.io/badge/누구나 쉽게 즐기는 C언어 콘서트-20232a.svg?style=flat-square&logo=c&logoColor=00BFFF" />&nbsp <!-- c -->
+    <img src="https://img.shields.io/badge/명품 C++ Programing-20232a.svg?style=flat-square&logo=cplusplus&logoColor=00BFFF" />&nbsp <!-- c++ -->
   <hr>
 </p>
